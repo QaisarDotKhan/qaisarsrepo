@@ -6,6 +6,7 @@ export default function App(){
         <View>
         <Text> Qaisar Khan</Text>
         <Text> How are you</Text>
+        
         </View>
     )
 }
